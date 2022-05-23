@@ -1,0 +1,74 @@
+body{
+  background-color: black;
+}
+[class*="col"]{
+  border: 1px solid white;
+  height: 250px;
+  font-size: 30px;
+  color: white;
+}
+#yasuo{
+  font-size: 40px;
+  text-align: center;
+  color: white;
+}
+#a{
+  background: url(imgs/Yasuo.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#b{
+  background-image: url(imgs/Veigar.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#c{
+  background-image: url(imgs/Yone.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#d{
+  background-image: url(imgs/Kassadin.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#e{
+  background-image: url(imgs/Ekko.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#f{
+  background-image: url(imgs/Qiyana.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#g{
+  background-image: url(imgs/Swain.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#h{
+  background-image: url(imgs/Talon.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#i{
+  background-image: url(imgs/Zed.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#j{
+  background-image: url(imgs/Darius.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#k{
+  background-image: url(imgs/Lee-sin.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#l{
+  background-image: url(imgs/Sylas.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
